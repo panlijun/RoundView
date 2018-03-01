@@ -14,4 +14,4 @@ ImageView的需要显示一张不定的图片,且是图片本身是矩形，但�
 要解决这两个问题只能自己来实现一个ImageView 和 TextView啦
 # 效果图
 
-![image](https://raw.githubusercontent.com/panlijun/MarkDownPic/master/Android/device-2018-03-01-112540.gif)
+![image](https://raw.githubusercontent.com/panlijun/MarkDownPic/master/round.gif)
