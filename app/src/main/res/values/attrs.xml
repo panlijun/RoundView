@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="round_radius" format="dimension" />
+    <attr name="round_stoker_color" format="color" />
+    <attr name="round_stoker_width" format="dimension" />
+
+    <declare-styleable name="RoundImageView">
+        <attr name="round_radius" />
+        <attr name="round_stoker_color" />
+        <attr name="round_stoker_width" />
+    </declare-styleable>
+    <declare-styleable name="RoundTextView">
+        <attr name="round_radius" />
+        <attr name="round_stoker_color" />
+        <attr name="round_stoker_width" />
+        <attr name="round_background" format="color"/>
+    </declare-styleable>
+</resources>
